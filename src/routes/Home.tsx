@@ -1,6 +1,6 @@
 import Search from "../components/Search";
 
-import { use, useState } from "react";
+import { useState } from "react";
 
 import { IUser } from "../types/user";
 
