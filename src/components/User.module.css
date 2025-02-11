@@ -1,0 +1,22 @@
+.user {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  padding: 2rem;
+  gap: 1rem;
+  background-color: palevioletred;
+  border-radius: 10px;
+}
+
+.user img {
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
+}
+
+.userStats {
+  display: flex;
+  gap: 2rem;
+}
